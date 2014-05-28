@@ -1,2 +1,3 @@
-get es?=
+geht es?
 ja es geht
+aller guten DInge sind 3
